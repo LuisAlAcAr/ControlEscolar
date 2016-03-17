@@ -1,4 +1,4 @@
-Documento de Requisitos v 1.0
+Documento de Requisitos v 1.1
 ____________________________________________________________________________
 
 Requisitos funcionales:
