@@ -1,4 +1,9 @@
-Documento de Requisitos v 1.1
+Documento de Requisitos v 1.2
+____________________________________________________________________________
+
+Requisitos no funcionales:
+RNF001: El sistema debe ser usable.
+RNF002: El sistema debe ser elegindo
 ____________________________________________________________________________
 
 Requisitos funcionales:
