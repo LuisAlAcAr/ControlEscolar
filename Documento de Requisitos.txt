@@ -1,4 +1,4 @@
-Documento de Requisitos v 1.2
+Documento de Requisitos v 1.3
 ____________________________________________________________________________
 
 Requisitos no funcionales:
@@ -10,3 +10,17 @@ Requisitos funcionales:
 RF001: El sistema debe permiter el registro de alumnos.
 RF002: El sistema debe imprimir  reporte de calificaciones.
 RF003: El sistema debe permitir la carga de materias.
+
+____________________________________________________________________________
+
+Lista de casos de Uso
+
+CU001 : Registrar Alumnos
+CU002 : Imprimir Cardex
+CU003 Cargar Materiales
+
+_____________________________________________________________________________
+
+Concluciones:
+
+El sistema sirve para gestionar los servicios del departamento de control escolar
