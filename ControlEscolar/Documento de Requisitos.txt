@@ -1,0 +1,12 @@
+Documento de Requisitos v 1.2
+____________________________________________________________________________
+
+Requisitos no funcionales:
+RNF001: El sistema debe ser usable.
+RNF002: El sistema debe ser elegindo
+____________________________________________________________________________
+
+Requisitos funcionales:
+RF001: El sistema debe permiter el registro de alumnos.
+RF002: El sistema debe imprimir  reporte de calificaciones.
+RF003: El sistema debe permitir la carga de materias.
